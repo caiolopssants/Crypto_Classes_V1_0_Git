@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
 [assembly: AssemblyTitle("Crypto_Classes_V_1_0")]
-[assembly: AssemblyDescription("Classe detinada a criptografia e descriptografia de documentos e textos.")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Caio Lopes Deodato dos Santos")]
+[assembly: AssemblyCompany("caiolopsants")]
 [assembly: AssemblyProduct("Crypto_Classes_V_1_0")]
-[assembly: AssemblyCopyright("Caio Lopes Deodato dos Santos Copyright ©  2020")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("caiolopsants Copyright ©  2020")]
+[assembly: AssemblyTrademark("caiolopsants")]
 [assembly: AssemblyCulture("")]
 
 // Definir ComVisible como false torna os tipos neste assembly invisíveis
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // É possível especificar todos os valores ou usar como padrão os Números de Build e da Revisão
 // usando o '*' como mostrado abaixo:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.2020")]
-[assembly: AssemblyFileVersion("1.0.0.2020")]
+[assembly: AssemblyVersion("1.0.0.2")]
+[assembly: AssemblyFileVersion("1.0.0.2")]
