@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto_Classes_Library", "Crypto_Classes_V_1_0\Crypto_Classes_Library.csproj", "{D5B1A4A1-65D3-48C7-8C1E-281A04C77E51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto_Classes_Library", "Crypto_Classes_V1_0\Crypto_Classes_Library.csproj", "{D5B1A4A1-65D3-48C7-8C1E-281A04C77E51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
